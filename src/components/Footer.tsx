@@ -32,7 +32,7 @@ export function Footer() {
               Support
             </Link>
             <Link
-              href="https://github.com/tupe12334/centy"
+              href="https://github.com/centy-io/centy"
               target="_blank"
               rel="noopener noreferrer"
               className="text-sm text-[var(--foreground)]/70 hover:text-[var(--primary)] transition-colors"
@@ -40,7 +40,7 @@ export function Footer() {
               GitHub
             </Link>
             <Link
-              href="https://github.com/tupe12334/centy/blob/main/LICENSE"
+              href="https://github.com/centy-io/centy/blob/main/LICENSE"
               target="_blank"
               rel="noopener noreferrer"
               className="text-sm text-[var(--foreground)]/70 hover:text-[var(--primary)] transition-colors"
@@ -48,7 +48,7 @@ export function Footer() {
               MIT License
             </Link>
             <Link
-              href="https://github.com/tupe12334/centy/issues"
+              href="https://github.com/centy-io/centy/issues"
               target="_blank"
               rel="noopener noreferrer"
               className="text-sm text-[var(--foreground)]/70 hover:text-[var(--primary)] transition-colors"

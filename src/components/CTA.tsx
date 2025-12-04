@@ -14,7 +14,7 @@ export function CTA() {
 
         <div className="flex flex-col sm:flex-row gap-4 justify-center">
           <Link
-            href="https://github.com/tupe12334/centy"
+            href="https://github.com/centy-io/centy"
             target="_blank"
             rel="noopener noreferrer"
             className="inline-flex items-center justify-center gap-2 px-8 py-3 text-base font-medium text-white bg-[var(--primary)] rounded-lg hover:bg-[var(--primary-hover)] transition-colors"
