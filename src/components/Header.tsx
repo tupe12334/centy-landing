@@ -25,6 +25,14 @@ export function Header() {
               How It Works
             </Link>
             <Link
+              href="https://docs.centy.io"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="text-sm font-medium hover:text-[var(--primary)] transition-colors"
+            >
+              Docs
+            </Link>
+            <Link
               href="https://github.com/tupe12334/centy"
               target="_blank"
               rel="noopener noreferrer"
