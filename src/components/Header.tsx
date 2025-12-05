@@ -52,7 +52,9 @@ export function Header() {
           </div>
 
           <Link
-            href="#cta"
+            href="https://app.centy.io"
+            target="_blank"
+            rel="noopener noreferrer"
             className="px-4 py-2 text-sm font-medium text-white bg-[var(--primary)] rounded-lg hover:bg-[var(--primary-hover)] transition-colors"
           >
             Get Started

@@ -16,6 +16,14 @@ export function Footer() {
 
           <div className="flex items-center gap-6">
             <Link
+              href="https://app.centy.io"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="text-sm text-[var(--foreground)]/70 hover:text-[var(--primary)] transition-colors"
+            >
+              App
+            </Link>
+            <Link
               href="https://docs.centy.io"
               target="_blank"
               rel="noopener noreferrer"

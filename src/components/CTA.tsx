@@ -14,10 +14,18 @@ export function CTA() {
 
         <div className="flex flex-col sm:flex-row gap-4 justify-center">
           <Link
+            href="https://app.centy.io"
+            target="_blank"
+            rel="noopener noreferrer"
+            className="px-8 py-3 text-base font-medium text-white bg-[var(--primary)] rounded-lg hover:bg-[var(--primary-hover)] transition-colors"
+          >
+            Launch App
+          </Link>
+          <Link
             href="https://github.com/centy-io/centy"
             target="_blank"
             rel="noopener noreferrer"
-            className="inline-flex items-center justify-center gap-2 px-8 py-3 text-base font-medium text-white bg-[var(--primary)] rounded-lg hover:bg-[var(--primary-hover)] transition-colors"
+            className="inline-flex items-center justify-center gap-2 px-8 py-3 text-base font-medium border border-[var(--secondary)] rounded-lg hover:bg-[var(--secondary)] transition-colors"
           >
             <svg className="w-5 h-5" fill="currentColor" viewBox="0 0 24 24">
               <path
@@ -27,14 +35,6 @@ export function CTA() {
               />
             </svg>
             Star on GitHub
-          </Link>
-          <Link
-            href="https://docs.centy.io"
-            target="_blank"
-            rel="noopener noreferrer"
-            className="px-8 py-3 text-base font-medium border border-[var(--secondary)] rounded-lg hover:bg-[var(--secondary)] transition-colors"
-          >
-            Read Documentation
           </Link>
         </div>
 

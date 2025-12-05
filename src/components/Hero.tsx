@@ -25,18 +25,20 @@ export function Hero() {
 
         <div className="flex flex-col sm:flex-row gap-4 justify-center">
           <Link
-            href="https://github.com/centy-io/centy"
+            href="https://app.centy.io"
             target="_blank"
             rel="noopener noreferrer"
             className="px-8 py-3 text-base font-medium text-white bg-[var(--primary)] rounded-lg hover:bg-[var(--primary-hover)] transition-colors"
           >
-            View on GitHub
+            Get Started
           </Link>
           <Link
-            href="#how-it-works"
+            href="https://github.com/centy-io/centy"
+            target="_blank"
+            rel="noopener noreferrer"
             className="px-8 py-3 text-base font-medium border border-[var(--secondary)] rounded-lg hover:bg-[var(--secondary)] transition-colors"
           >
-            Learn More
+            View on GitHub
           </Link>
         </div>
 
