@@ -40,28 +40,12 @@ export function Footer() {
               Support
             </Link>
             <Link
-              href="https://github.com/centy-io/centy"
+              href="https://github.com/centy-io"
               target="_blank"
               rel="noopener noreferrer"
               className="text-sm text-[var(--foreground)]/70 hover:text-[var(--primary)] transition-colors"
             >
               GitHub
-            </Link>
-            <Link
-              href="https://github.com/centy-io/centy/blob/main/LICENSE"
-              target="_blank"
-              rel="noopener noreferrer"
-              className="text-sm text-[var(--foreground)]/70 hover:text-[var(--primary)] transition-colors"
-            >
-              MIT License
-            </Link>
-            <Link
-              href="https://github.com/centy-io/centy/issues"
-              target="_blank"
-              rel="noopener noreferrer"
-              className="text-sm text-[var(--foreground)]/70 hover:text-[var(--primary)] transition-colors"
-            >
-              Issues
             </Link>
           </div>
         </div>

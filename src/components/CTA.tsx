@@ -22,7 +22,7 @@ export function CTA() {
             Launch App
           </Link>
           <Link
-            href="https://github.com/centy-io/centy"
+            href="https://github.com/centy-io"
             target="_blank"
             rel="noopener noreferrer"
             className="inline-flex items-center justify-center gap-2 px-8 py-3 text-base font-medium border border-[var(--secondary)] rounded-lg hover:bg-[var(--secondary)] transition-colors"

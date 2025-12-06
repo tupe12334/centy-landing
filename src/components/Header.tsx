@@ -42,7 +42,7 @@ export function Header() {
               Docs
             </Link>
             <Link
-              href="https://github.com/centy-io/centy"
+              href="https://github.com/centy-io"
               target="_blank"
               rel="noopener noreferrer"
               className="text-sm font-medium hover:text-[var(--primary)] transition-colors"
